@@ -2,4 +2,3 @@
 hackpro:
   limit-service:
       minimum: 33
-      maximum: 33333
