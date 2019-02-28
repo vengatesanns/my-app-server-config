@@ -1,0 +1,5 @@
+#Custom Value
+hackpro:
+  limit-service:
+      minimum: 77
+      maximum: 7777777
