@@ -1,5 +1,5 @@
 # My-App-Server Properties
-    `My-app-server Configuration are maintained at Git repository, those configuration are load and initialized by spring cloud config server`
+    My-app-server Configuration are maintained at Git repository, those configuration are load and initialized by spring cloud config server
  
 # Feedback-Service Configuration *feedback-service runs in 7200*
 ![feedback](https://raw.githubusercontent.com/vengatesanns/Games/master/feedback.JPG)
