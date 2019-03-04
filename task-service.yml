@@ -10,6 +10,6 @@ spring:
      username: root 
      password: vengatesanns@freak  
   jpa:
-     hibernate.ddl-auto: none
+     hibernate.ddl-auto: auto
      show-sql:  true
      generate-ddl: false     
